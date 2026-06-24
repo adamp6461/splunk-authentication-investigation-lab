@@ -171,6 +171,18 @@ No evidence of privilege escalation or malicious activity was observed.
 - Incident Documentation
 - Security Monitoring
 
+
+## MITRE ATT&CK References
+
+The following MITRE ATT&CK techniques were referenced to provide context for the authentication events analyzed during this investigation.
+
+| Technique | ID | Relation to Lab |
+|-----------|----|-----------------|
+| Brute Force | T1110 | Event ID 4625 (Failed Logon) demonstrates repeated failed authentication attempts. |
+| Valid Accounts | T1078 | Event ID 4624 (Successful Logon) demonstrates successful authentication using valid credentials. |
+| Create Account | T1136 | A test user account (`jsmith`) was created to generate authentication events for analysis. |
+
+**Note:** All authentication events were intentionally generated within a controlled lab environment for educational and defensive analysis purposes.
 ---
 
 ## Author
