@@ -90,7 +90,7 @@ Failure reason:
 Unknown user name or bad password
 ```
 
-![Step 5](screenshots/Step-5.png)
+![Step 5](screenshots/Step-6.png)
 
 ---
 
@@ -98,7 +98,7 @@ Unknown user name or bad password
 
 Exported Windows Security logs for ingestion into Splunk.
 
-![Step 6](screenshots/Step-6.png)
+![Step 6](screenshots/Step-5.png)
 
 ---
 
