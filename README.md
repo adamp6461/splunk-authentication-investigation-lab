@@ -8,6 +8,7 @@ A test user account was created within a Windows 11 virtual machine to simulate 
 
 The goal was to identify authentication events, validate security log collection, and investigate login activity using Event IDs 4624 and 4625.
 
+📄 [Read the full Incident Report](incident-report/final-report.md)
 ---
 
 ## Technologies Used
